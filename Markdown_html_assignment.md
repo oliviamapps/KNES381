@@ -13,6 +13,7 @@ Have you seen a [firefly](firefly_information.md)?
 
 Although we come from a village, the houses are big now, constructed of concrete and red roofs, built against the heat, humidity, and harsh rain. The soil is red, rich with iron, and your sandals sink in during the Monsoon season.
 
+<table>
 <tr>
 <td>
 
@@ -23,10 +24,10 @@ I thank the fireflies, or as we call them, mina miningu, for my childhood, for m
 </td>
 <td>
 
-<img src ="Images_for_Markdown_Assignment/Coconut_Tree_Firefly_MarkdownAssn.png" width="250">
+<img src="Images_for_Markdown_Assignment/Coconut_Tree_Firefly_MarkdownAssn.png" width="250">
 
 </td>
-</tr?
+</tr>
 </table>
 
 *I hope to see you again.*
