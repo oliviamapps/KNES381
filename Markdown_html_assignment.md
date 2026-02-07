@@ -9,4 +9,4 @@ I was born in Vancouver, and I moved to Calgary when I was 3. My parents are imm
 
 My earliest memories are not from Canada, but rather, they are from India. My family goes back every 2-3 years, back when fireflies would flood the early evening sky like glowing stars we could hold, trap in our small palms. 
 
-Have you seen a firefly?
+Have you seen a [firefly](firefly_information.md)?
