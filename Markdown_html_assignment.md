@@ -13,10 +13,19 @@ Have you seen a [firefly](firefly_information.md)?
 
 Although we come from a village, the houses are big now, constructed of concrete and red roofs, built against the heat, humidity, and harsh rain. The soil is red, rich with iron, and your sandals sink in during the Monsoon season.
 
-<p>
-<img src="Images_for_Markdown_Assignment/Coconut_Tree_Firefly_MarkdownAssn.png" alt="Coconut Tree and Firefly" style="float:right; width:250px; margin-left:20px;">
-There is a red path that leads to our home, lined with tall, swinging coconut trees shielding our heads from the scorching sun. I thank the fireflies, or as we call them, mina miningu, for my childhood, for my memories, and for keeping me safe.
+### Glowing Umbrellas of Green
+<table>
+<tr> 
+<td> 
+<img src="Images_for_Markdown_Assignment/Coconut_Tree_Firefly_MarkdownAssn.png" width="200">
+</td>
+<td>
+<p> 
+There is a red path that winds its way to our home, flanked by tall coconut trees that sway like gentle sentinels, their fronds brushing the sky and shielding us from the fierce midday sun. But at night when the world truly awakens, I can no longer resist stepping away from the cool, black tiles of our porch—the safe cradle of our home. Out there, in the hush of twilight, the fireflies appear. They hover and dart like tiny lanterns, teasing my small, eager hands to follow. As we move along the path, they rise beneath the coconut canopies, a shimmering guard against the unknown, guiding me safely as the first stars pierce the deep velvet sky. The village becomes a canopy of bright green light, umbrellas of living glow that pulse with quiet joy. Oh, the joy of being a child under their watch, wandering a world at once vast and intimate. For all my memories, for every heartbeat of wonder, I thank the fireflies—our mina miningu—for their light, their guardianship, and the magic they wove into the very fabric of my childhood.
 </p>
+</td>
+</tr>
+</table>
 
 *I hope to see you again.*
 
