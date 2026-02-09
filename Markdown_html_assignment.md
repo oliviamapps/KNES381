@@ -34,4 +34,4 @@ So before my muscles atrophy, and cardiac output (Q̇)decreases with age...
 *Thank you*
 
 
-**Okay for real, for more information on the dwindling number of fireflies please press (or do not) press the following super (NOT) sketchy [link](Sketchy_site_firefly.md)
+Okay for real, for more information on the dwindling number of fireflies please press (or do not) press the following super (NOT) sketchy [link](Sketchy_site_firefly.md)
