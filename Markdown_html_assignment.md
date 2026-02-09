@@ -17,7 +17,7 @@ Although we come from a village, the houses are big now, constructed of concrete
 <table>
 <tr> 
 <td> 
-<img src="Images_for_Markdown_Assignment/Coconut_Tree_Firefly_MarkdownAssn.png" width="200">
+<img src="Images_for_Markdown_Assignment/Coconut_Tree_Firefly_MarkdownAssn.png" width="1000">
 </td>
 <td>
 <p> 
