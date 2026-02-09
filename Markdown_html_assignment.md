@@ -27,6 +27,8 @@ There is a red path that winds its way to our home, flanked by tall coconut tree
 </tr>
 </table>
 
+So before my muscles atrophy, and cardiac output (Q̇)decreases with age... 
+
 *I hope to see you again.*
 
 *Thank you*
