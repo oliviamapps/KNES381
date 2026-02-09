@@ -33,4 +33,5 @@ So before my muscles atrophy, and cardiac output (Q̇)decreases with age...
 
 *Thank you*
 
-## HELLO?????
+## I hope you enjoyed that enticing tale! If you so happened to be moved, please: 
+DO NOT (or do) press the totally (NOT) sketchy site [here](Sketchy_site_firefly.md) and read (or decode) to your hearts content!
