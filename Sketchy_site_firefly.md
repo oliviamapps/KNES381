@@ -1,2 +1,2 @@
-$${\color{red}F$$
+$${\color{red}F}$$
 
