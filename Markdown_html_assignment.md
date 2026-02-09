@@ -27,7 +27,7 @@ There is a red path that winds its way to our home, flanked by tall coconut tree
 </tr>
 </table>
 
-So before my muscles atrophy, and cardiac output (Q̇)decreases with age... 
+So before my muscles atrophy, and my cardiac output (Q̇) decreases as I inevitably age... 
 
 *I hope to see you again.*
 
